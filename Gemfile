@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'sinatra-activerecord'
+gem 'dotenv'
+gem 'sqlite3'
+gem 'puma'
+gem 'rake'
